@@ -60,3 +60,17 @@ Interactive elements, such as image carousels and modals, to showcase SpaceX's p
 Latest news section, displaying dynamic content fetched using JavaScript.
 Contact form for users to get in touch.
 Footer with social media links.
+
+## Issues
+
+If you encounter any issues while using our website, please report them in the Issues section of this repository.
+
+## License
+
+The content of this project is licensed under the Apache License.
+
+## Acknowledgments
+
+We would like to thank all the contributors and supporters who have helped make this dance company website possible.
+
+Thank you for visiting our GitHub repository. Enjoy exploring our website and happy dancing! 💃🕺
