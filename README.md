@@ -4,13 +4,13 @@ SpaceX Clone
 This project is a clone of the official SpaceX website, aiming to replicate the design and functionality of the original site. It serves as a demonstration of web development skills and is not intended for any commercial use.
 
 ## Table of Contents
-Introduction
-Technologies Used
-Features
-Installation and Usage
-Screenshots
-Contributing
-License
+- Introduction
+- Technologies Used
+- Features
+- Installation and Usage
+- Screenshots
+- Contributing
+- License
 
 ## Introduction
 The SpaceX Website Clone project is created to showcase the ability to recreate complex web designs and implement interactive web features. It closely imitates the design, layout, and overall user experience of the official SpaceX website.
