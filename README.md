@@ -16,15 +16,6 @@ This project is a clone of the official SpaceX website, aiming to replicate the 
 The SpaceX Website Clone project is created to showcase the ability to recreate complex web designs and implement interactive web features. It closely imitates the design, layout, and overall user experience of the official SpaceX website.
 
 ## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- FontAwesome
-- jQuery
-
-## Features
-## Technologies Used
 
 The frontend is built using the following technologies:
 
